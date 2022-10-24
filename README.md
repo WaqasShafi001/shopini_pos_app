@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+![Shopini store mocup](https://user-images.githubusercontent.com/67283178/197442094-dc799faf-4266-46ea-a3a6-498350ccb80d.png)
+
 
 This project is a starting point for a Flutter application.
 
